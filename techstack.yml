@@ -1,11 +1,11 @@
 repo_name: th3mon/material-design-demo
-report_id: 4474705e4b4e68ffcdf8c6960a02d9ca
+report_id: '095301ec728c1aefe24c8a8f45a1db4e'
 repo_type: Public
-timestamp: '2023-11-09T13:52:13+00:00'
-requested_by: th3mon
+timestamp: '2023-12-14T09:26:52+00:00'
+requested_by: stack-file[bot]
 provider: github
 branch: master
-detected_tools_count: 35
+detected_tools_count: 36
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -46,7 +46,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -71,7 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -105,7 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -119,7 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -145,6 +145,15 @@ tools:
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: src/app/app.component.html
+  last_updated_by: angular-cli
+  last_updated_on: 2016-12-13 23:53:26.000000000 Z
 - name: "@angular/common"
   description: Angular - commonly needed directives and services
   package_url: https://www.npmjs.com/@angular/common
@@ -155,7 +164,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -169,7 +178,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -183,7 +192,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -197,7 +206,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15977/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -211,7 +220,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16444/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -225,7 +234,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -239,7 +248,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -253,7 +262,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -267,7 +276,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -281,7 +290,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -295,7 +304,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17725/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -309,7 +318,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -323,7 +332,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -337,7 +346,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -351,7 +360,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: th3mon
   last_updated_on: 2016-12-14 13:57:54.000000000 Z
@@ -365,7 +374,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -379,7 +388,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16104/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -393,7 +402,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -407,7 +416,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16981/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -422,7 +431,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16605/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -436,7 +445,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -450,7 +459,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18098/image.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
@@ -464,7 +473,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/th3mon/material-design-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: angular-cli
   last_updated_on: 2016-12-13 23:53:26.000000000 Z
